@@ -2,4 +2,4 @@ server:
   port: 7103
 
 test:
-  content: 1234
+  content: 12345
