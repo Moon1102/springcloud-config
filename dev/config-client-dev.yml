@@ -1,5 +1,5 @@
 server:
-  port: 7103
+  port: 7101
 
 test:
   content: 1234
